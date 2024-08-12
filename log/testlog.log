@@ -1,0 +1,450 @@
+2024-07-30 22:49:40,611 - CPB Stage -INFO - open staging site
+2024-07-30 22:49:40,658 - CPB Stage -INFO - switching to iFrame
+2024-07-30 22:49:43,989 - CPB Stage -INFO - clicking on edit button
+2024-07-30 22:49:44,574 - CPB Stage -INFO - clicking on admin mode
+2024-07-30 22:49:46,674 - CPB Stage -INFO - clicking on new custom option
+2024-07-30 22:49:46,834 - CPB Stage -INFO - test failed
+2024-07-30 22:53:14,610 - CPB -INFO - open staging site
+2024-07-30 22:53:14,648 - CPB -INFO - switching to iFrame
+2024-07-30 22:53:24,702 - CPB -INFO - clicking on edit button
+2024-07-30 22:53:25,276 - CPB -INFO - clicking on admin mode
+2024-07-30 22:53:27,923 - CPB -INFO - clicking on new custom option
+2024-07-30 22:53:28,077 - CPB -INFO - test failed
+2024-07-31 19:57:10,075 - CPB -INFO - open staging site
+2024-07-31 19:57:10,113 - CPB -INFO - switching to iFrame
+2024-07-31 19:57:13,497 - CPB -INFO - clicking on edit button
+2024-07-31 19:57:14,085 - CPB -INFO - clicking on admin mode
+2024-07-31 19:57:16,171 - CPB -INFO - clicking on new custom option
+2024-07-31 19:57:16,305 - CPB -INFO - test failed
+2024-07-31 20:03:35,307 - CPB -INFO - open staging site
+2024-07-31 20:03:35,349 - CPB -INFO - switching to iFrame
+2024-07-31 20:03:39,386 - CPB -INFO - clicking on edit button
+2024-07-31 20:03:39,436 - CPB -INFO - clicking on admin mode
+2024-07-31 20:03:42,087 - CPB -INFO - clicking on new custom option
+2024-07-31 20:03:42,273 - CPB -INFO - test failed
+2024-07-31 20:16:34,575 - CPB -INFO - open staging site
+2024-07-31 20:16:34,616 - CPB -INFO - switching to iFrame
+2024-07-31 20:16:38,520 - CPB -INFO - clicking on edit button
+2024-07-31 20:16:39,087 - CPB -INFO - clicking on admin mode
+2024-07-31 20:16:41,723 - CPB -INFO - clicking on new custom option
+2024-07-31 20:16:42,481 - CPB -INFO - test failed
+2024-07-31 20:19:30,876 - CPB -INFO - open staging site
+2024-07-31 20:19:30,916 - CPB -INFO - switching to iFrame
+2024-07-31 20:19:34,387 - CPB -INFO - clicking on edit button
+2024-07-31 20:19:34,440 - CPB -INFO - clicking on admin mode
+2024-07-31 20:19:42,779 - CPB -INFO - clicking on new custom option
+2024-07-31 20:19:43,106 - CPB -INFO - test failed
+2024-07-31 20:20:41,491 - CPB -INFO - open staging site
+2024-07-31 20:20:41,540 - CPB -INFO - switching to iFrame
+2024-07-31 20:20:45,451 - CPB -INFO - clicking on edit button
+2024-07-31 20:20:46,042 - CPB -INFO - clicking on admin mode
+2024-07-31 20:20:48,160 - CPB -INFO - clicking on new custom option
+2024-07-31 20:20:48,503 - CPB -INFO - test failed
+2024-07-31 20:35:21,252 - CPB -INFO - open staging site
+2024-07-31 20:35:21,293 - CPB -INFO - switching to iFrame
+2024-07-31 20:35:25,645 - CPB -INFO - clicking on edit button
+2024-07-31 20:35:26,232 - CPB -INFO - clicking on admin mode
+2024-07-31 20:35:28,864 - CPB -INFO - clicking on new custom option
+2024-07-31 20:35:29,228 - CPB -INFO - test failed
+2024-08-05 15:51:03,915 - CPB -INFO - open staging site
+2024-08-05 16:04:27,199 - CPB -INFO - open staging site
+2024-08-05 16:04:27,236 - CPB -INFO - switching to iFrame
+2024-08-05 16:32:34,495 - CPB -INFO - open staging site
+2024-08-05 16:32:34,541 - CPB -INFO - switching to iFrame
+2024-08-05 16:32:34,643 - CPB -INFO - clicking on create new button
+2024-08-05 16:45:46,108 - CPB -INFO - open staging site
+2024-08-05 16:45:46,145 - CPB -INFO - switching to iFrame
+2024-08-05 16:45:46,245 - CPB -INFO - clicking on create new button
+2024-08-05 16:45:46,385 - CPB -INFO - entering product title
+2024-08-05 16:54:14,244 - CPB -INFO - open staging site
+2024-08-05 16:54:14,280 - CPB -INFO - switching to iFrame
+2024-08-05 16:54:14,378 - CPB -INFO - clicking on create new button
+2024-08-05 16:54:14,501 - CPB -INFO - entering product title
+2024-08-05 16:54:14,588 - CPB -INFO - entering product description
+2024-08-05 16:59:13,848 - CPB -INFO - open staging site
+2024-08-05 16:59:13,888 - CPB -INFO - switching to iFrame
+2024-08-05 16:59:13,997 - CPB -INFO - clicking on create new button
+2024-08-05 16:59:14,127 - CPB -INFO - entering product title
+2024-08-05 16:59:14,207 - CPB -INFO - entering product description
+2024-08-05 16:59:14,241 - CPB -INFO - entering product price base
+2024-08-05 17:28:55,017 - CPB -INFO - open staging site
+2024-08-05 17:28:55,057 - CPB -INFO - switching to iFrame
+2024-08-05 17:28:57,910 - CPB -INFO - clicking on edit button
+2024-08-05 17:28:58,474 - CPB -INFO - clicking on admin mode
+2024-08-05 17:29:01,106 - CPB -INFO - clicking on new custom option
+2024-08-05 17:29:01,440 - CPB -INFO - test failed
+2024-08-05 17:29:33,893 - CPB -INFO - open staging site
+2024-08-05 17:29:33,931 - CPB -INFO - switching to iFrame
+2024-08-05 17:29:34,029 - CPB -INFO - clicking on create new button
+2024-08-05 17:29:34,152 - CPB -INFO - entering product title
+2024-08-05 17:29:34,243 - CPB -INFO - entering product description
+2024-08-05 17:29:34,275 - CPB -INFO - entering product price base
+2024-08-05 17:35:26,882 - CPB -INFO - open staging site
+2024-08-05 17:35:26,924 - CPB -INFO - switching to iFrame
+2024-08-05 17:35:27,027 - CPB -INFO - clicking on create new button
+2024-08-05 17:35:27,160 - CPB -INFO - entering product title
+2024-08-05 17:35:27,244 - CPB -INFO - entering product description
+2024-08-05 17:35:27,276 - CPB -INFO - entering product price base
+2024-08-05 17:36:37,959 - CPB -INFO - open staging site
+2024-08-05 17:36:37,996 - CPB -INFO - switching to iFrame
+2024-08-05 17:36:38,099 - CPB -INFO - clicking on create new button
+2024-08-05 17:36:38,228 - CPB -INFO - entering product title
+2024-08-05 17:36:38,306 - CPB -INFO - entering product description
+2024-08-05 17:36:38,337 - CPB -INFO - entering product price base
+2024-08-05 17:36:38,364 - CPB -INFO - uploading image
+2024-08-05 17:43:36,174 - CPB -INFO - open staging site
+2024-08-05 17:43:36,209 - CPB -INFO - switching to iFrame
+2024-08-05 17:43:36,308 - CPB -INFO - clicking on create new button
+2024-08-05 17:43:36,465 - CPB -INFO - entering product title
+2024-08-05 17:43:36,547 - CPB -INFO - entering product description
+2024-08-05 17:43:36,581 - CPB -INFO - entering product price base
+2024-08-05 17:43:36,608 - CPB -INFO - uploading image
+2024-08-05 17:44:20,380 - CPB -INFO - open staging site
+2024-08-05 17:44:20,418 - CPB -INFO - switching to iFrame
+2024-08-05 17:44:20,524 - CPB -INFO - clicking on create new button
+2024-08-05 17:44:20,655 - CPB -INFO - entering product title
+2024-08-05 17:44:20,734 - CPB -INFO - entering product description
+2024-08-05 17:44:20,771 - CPB -INFO - entering product price base
+2024-08-05 17:44:20,797 - CPB -INFO - uploading image
+2024-08-05 17:47:25,591 - CPB -INFO - open staging site
+2024-08-05 17:47:25,629 - CPB -INFO - switching to iFrame
+2024-08-05 17:47:25,728 - CPB -INFO - clicking on create new button
+2024-08-05 17:47:25,856 - CPB -INFO - entering product title
+2024-08-05 17:47:25,935 - CPB -INFO - entering product description
+2024-08-05 17:47:25,969 - CPB -INFO - entering product price base
+2024-08-05 17:47:25,994 - CPB -INFO - uploading image
+2024-08-05 17:47:26,010 - CPB -INFO - clicking on create button
+2024-08-05 18:47:49,032 - CPB -INFO - open staging site
+2024-08-05 18:47:49,075 - CPB -INFO - switching to iFrame
+2024-08-05 18:47:49,176 - CPB -INFO - clicking on create new button
+2024-08-05 18:47:49,317 - CPB -INFO - entering product title
+2024-08-05 18:47:49,400 - CPB -INFO - entering product description
+2024-08-05 18:47:49,433 - CPB -INFO - entering product price base
+2024-08-05 18:47:49,460 - CPB -INFO - uploading image
+2024-08-05 18:47:49,477 - CPB -INFO - clicking on create button
+2024-08-05 18:48:14,286 - CPB -INFO - open staging site
+2024-08-05 18:48:14,323 - CPB -INFO - switching to iFrame
+2024-08-05 18:48:14,425 - CPB -INFO - clicking on create new button
+2024-08-05 18:48:14,556 - CPB -INFO - entering product title
+2024-08-05 18:48:14,632 - CPB -INFO - entering product description
+2024-08-05 18:48:14,664 - CPB -INFO - entering product price base
+2024-08-05 18:48:14,691 - CPB -INFO - uploading image
+2024-08-05 18:48:14,708 - CPB -INFO - clicking on create button
+2024-08-05 18:48:17,553 - CPB -INFO - clicking on admin mode
+2024-08-05 18:59:13,221 - CPB -INFO - open staging site
+2024-08-05 18:59:13,270 - CPB -INFO - switching to iFrame
+2024-08-05 18:59:13,381 - CPB -INFO - clicking on create new button
+2024-08-05 18:59:13,542 - CPB -INFO - entering product title
+2024-08-05 18:59:13,635 - CPB -INFO - entering product description
+2024-08-05 18:59:13,671 - CPB -INFO - entering product price base
+2024-08-05 18:59:13,701 - CPB -INFO - uploading image
+2024-08-05 18:59:13,720 - CPB -INFO - clicking on create button
+2024-08-05 18:59:16,815 - CPB -INFO - clicking on admin mode
+2024-08-05 18:59:18,929 - CPB -INFO - clicking on add first custom option
+2024-08-11 18:39:18,312 - CPB -INFO - open staging site
+2024-08-11 18:39:18,353 - CPB -INFO - switching to iFrame
+2024-08-11 18:39:18,461 - CPB -INFO - clicking on create new button
+2024-08-11 18:39:18,597 - CPB -INFO - entering product title
+2024-08-11 18:39:18,688 - CPB -INFO - entering product description
+2024-08-11 18:39:18,722 - CPB -INFO - entering product price base
+2024-08-11 18:39:18,751 - CPB -INFO - uploading image
+2024-08-11 18:39:18,767 - CPB -INFO - clicking on create button
+2024-08-11 18:39:22,236 - CPB -INFO - clicking on admin mode
+2024-08-11 18:39:25,905 - CPB -INFO - clicking on add first custom option
+2024-08-11 20:20:57,926 - CPB -INFO - open staging site
+2024-08-11 20:20:57,971 - CPB -INFO - switching to iFrame
+2024-08-11 20:20:58,071 - CPB -INFO - clicking on create new button
+2024-08-11 20:20:58,199 - CPB -INFO - entering product title
+2024-08-11 20:20:58,295 - CPB -INFO - entering product description
+2024-08-11 20:20:58,329 - CPB -INFO - entering product price base
+2024-08-11 20:20:58,355 - CPB -INFO - uploading image
+2024-08-11 20:20:58,373 - CPB -INFO - clicking on create button
+2024-08-11 20:21:01,469 - CPB -INFO - clicking on admin mode
+2024-08-11 20:21:03,590 - CPB -INFO - clicking on add first custom option
+2024-08-11 20:30:26,892 - CPB -INFO - open staging site
+2024-08-11 20:30:26,936 - CPB -INFO - switching to iFrame
+2024-08-11 20:30:27,034 - CPB -INFO - clicking on create new button
+2024-08-11 20:30:27,170 - CPB -INFO - entering product title
+2024-08-11 20:30:27,245 - CPB -INFO - entering product description
+2024-08-11 20:30:27,278 - CPB -INFO - entering product price base
+2024-08-11 20:30:27,305 - CPB -INFO - uploading image
+2024-08-11 20:30:27,322 - CPB -INFO - clicking on create button
+2024-08-11 20:30:30,507 - CPB -INFO - clicking on admin mode
+2024-08-11 20:30:33,136 - CPB -INFO - clicking on add first custom option
+2024-08-11 20:33:48,493 - CPB -INFO - open staging site
+2024-08-11 20:33:48,536 - CPB -INFO - switching to iFrame
+2024-08-11 20:33:48,635 - CPB -INFO - clicking on create new button
+2024-08-11 20:33:48,770 - CPB -INFO - entering product title
+2024-08-11 20:33:48,847 - CPB -INFO - entering product description
+2024-08-11 20:33:48,878 - CPB -INFO - entering product price base
+2024-08-11 20:33:48,904 - CPB -INFO - uploading image
+2024-08-11 20:33:48,922 - CPB -INFO - clicking on create button
+2024-08-11 20:33:52,591 - CPB -INFO - clicking on admin mode
+2024-08-11 20:33:54,202 - CPB -INFO - clicking on add first custom option
+2024-08-11 20:34:30,978 - CPB -INFO - open staging site
+2024-08-11 20:34:31,017 - CPB -INFO - switching to iFrame
+2024-08-11 20:34:31,119 - CPB -INFO - clicking on create new button
+2024-08-11 20:34:31,245 - CPB -INFO - entering product title
+2024-08-11 20:34:31,320 - CPB -INFO - entering product description
+2024-08-11 20:34:31,351 - CPB -INFO - entering product price base
+2024-08-11 20:34:31,376 - CPB -INFO - uploading image
+2024-08-11 20:34:31,393 - CPB -INFO - clicking on create button
+2024-08-11 20:34:34,631 - CPB -INFO - clicking on admin mode
+2024-08-11 20:34:37,309 - CPB -INFO - clicking on add first custom option
+2024-08-11 20:42:53,823 - CPB -INFO - open staging site
+2024-08-11 20:42:53,885 - CPB -INFO - switching to iFrame
+2024-08-11 20:42:54,004 - CPB -INFO - clicking on create new button
+2024-08-11 20:42:54,169 - CPB -INFO - entering product title
+2024-08-11 20:42:54,245 - CPB -INFO - entering product description
+2024-08-11 20:42:54,293 - CPB -INFO - entering product price base
+2024-08-11 20:42:54,318 - CPB -INFO - uploading image
+2024-08-11 20:42:54,336 - CPB -INFO - clicking on create button
+2024-08-11 20:42:57,170 - CPB -INFO - clicking on admin mode
+2024-08-11 20:43:06,513 - CPB -INFO - clicking on add first custom option
+2024-08-11 20:44:29,848 - CPB -INFO - open staging site
+2024-08-11 20:44:29,890 - CPB -INFO - switching to iFrame
+2024-08-11 20:44:30,007 - CPB -INFO - clicking on create new button
+2024-08-11 20:44:30,132 - CPB -INFO - entering product title
+2024-08-11 20:44:30,199 - CPB -INFO - entering product description
+2024-08-11 20:44:30,234 - CPB -INFO - entering product price base
+2024-08-11 20:44:30,258 - CPB -INFO - uploading image
+2024-08-11 20:44:30,275 - CPB -INFO - clicking on create button
+2024-08-11 20:44:33,225 - CPB -INFO - clicking on admin mode
+2024-08-11 20:44:35,376 - CPB -INFO - clicking on add first custom option
+2024-08-11 20:44:35,979 - CPB -INFO - entering the first custom option title
+2024-08-11 20:45:58,764 - CPB -INFO - open staging site
+2024-08-11 20:45:58,801 - CPB -INFO - switching to iFrame
+2024-08-11 20:45:58,903 - CPB -INFO - clicking on create new button
+2024-08-11 20:45:59,088 - CPB -INFO - entering product title
+2024-08-11 20:45:59,157 - CPB -INFO - entering product description
+2024-08-11 20:45:59,189 - CPB -INFO - entering product price base
+2024-08-11 20:45:59,215 - CPB -INFO - uploading image
+2024-08-11 20:45:59,232 - CPB -INFO - clicking on create button
+2024-08-11 20:46:02,122 - CPB -INFO - clicking on admin mode
+2024-08-11 20:46:04,251 - CPB -INFO - clicking on add first custom option
+2024-08-11 20:46:04,831 - CPB -INFO - entering the first custom option title
+2024-08-11 20:46:47,936 - CPB -INFO - open staging site
+2024-08-11 20:46:47,979 - CPB -INFO - switching to iFrame
+2024-08-11 20:46:48,080 - CPB -INFO - clicking on create new button
+2024-08-11 20:46:48,217 - CPB -INFO - entering product title
+2024-08-11 20:46:48,294 - CPB -INFO - entering product description
+2024-08-11 20:46:48,327 - CPB -INFO - entering product price base
+2024-08-11 20:46:48,354 - CPB -INFO - uploading image
+2024-08-11 20:46:48,371 - CPB -INFO - clicking on create button
+2024-08-11 20:46:51,295 - CPB -INFO - clicking on admin mode
+2024-08-11 20:46:53,743 - CPB -INFO - clicking on add first custom option
+2024-08-11 20:46:54,808 - CPB -INFO - entering the first custom option title
+2024-08-11 21:08:39,019 - CPB -INFO - open staging site
+2024-08-11 21:08:39,064 - CPB -INFO - switching to iFrame
+2024-08-11 21:08:39,189 - CPB -INFO - clicking on create new button
+2024-08-11 21:08:39,340 - CPB -INFO - entering product title
+2024-08-11 21:08:39,416 - CPB -INFO - entering product description
+2024-08-11 21:08:39,448 - CPB -INFO - entering product price base
+2024-08-11 21:08:39,472 - CPB -INFO - uploading image
+2024-08-11 21:08:39,489 - CPB -INFO - clicking on create button
+2024-08-11 21:08:42,619 - CPB -INFO - clicking on admin mode
+2024-08-11 21:08:53,172 - CPB -INFO - clicking on add first custom option
+2024-08-11 21:08:53,297 - CPB -INFO - entering the first custom option title
+2024-08-11 21:08:53,365 - CPB -INFO - clicking on input field option
+2024-08-11 21:11:17,803 - CPB -INFO - open staging site
+2024-08-11 21:11:17,839 - CPB -INFO - switching to iFrame
+2024-08-11 21:11:17,936 - CPB -INFO - clicking on create new button
+2024-08-11 21:11:18,078 - CPB -INFO - entering product title
+2024-08-11 21:11:18,154 - CPB -INFO - entering product description
+2024-08-11 21:11:18,186 - CPB -INFO - entering product price base
+2024-08-11 21:11:18,210 - CPB -INFO - uploading image
+2024-08-11 21:11:18,226 - CPB -INFO - clicking on create button
+2024-08-11 21:11:21,428 - CPB -INFO - clicking on admin mode
+2024-08-11 21:11:24,072 - CPB -INFO - clicking on add first custom option
+2024-08-11 21:11:24,645 - CPB -INFO - entering the first custom option title
+2024-08-11 21:11:24,757 - CPB -INFO - clicking on input field option
+2024-08-11 21:11:24,834 - CPB -INFO - clicking on save custom option button
+2024-08-11 21:14:18,189 - CPB -INFO - open staging site
+2024-08-11 21:14:18,235 - CPB -INFO - switching to iFrame
+2024-08-11 21:14:18,335 - CPB -INFO - clicking on create new button
+2024-08-11 21:14:18,492 - CPB -INFO - entering product title
+2024-08-11 21:14:18,564 - CPB -INFO - entering product description
+2024-08-11 21:14:18,596 - CPB -INFO - entering product price base
+2024-08-11 21:14:18,622 - CPB -INFO - uploading image
+2024-08-11 21:14:18,638 - CPB -INFO - clicking on create button
+2024-08-11 21:14:21,737 - CPB -INFO - clicking on admin mode
+2024-08-11 21:14:23,853 - CPB -INFO - clicking on add first custom option
+2024-08-11 21:14:24,894 - CPB -INFO - entering the first custom option title
+2024-08-11 21:14:24,965 - CPB -INFO - clicking on input field option
+2024-08-11 21:14:25,058 - CPB -INFO - clicking on save custom option button
+2024-08-11 21:14:25,115 - CPB -INFO - clicking on add new custom option button
+2024-08-11 21:15:51,193 - CPB -INFO - open staging site
+2024-08-11 21:15:51,234 - CPB -INFO - switching to iFrame
+2024-08-11 21:15:51,334 - CPB -INFO - clicking on create new button
+2024-08-11 21:15:51,502 - CPB -INFO - entering product title
+2024-08-11 21:15:51,573 - CPB -INFO - entering product description
+2024-08-11 21:15:51,606 - CPB -INFO - entering product price base
+2024-08-11 21:15:51,632 - CPB -INFO - uploading image
+2024-08-11 21:15:51,648 - CPB -INFO - clicking on create button
+2024-08-11 21:15:54,663 - CPB -INFO - clicking on admin mode
+2024-08-11 21:15:56,818 - CPB -INFO - clicking on add first custom option
+2024-08-11 21:15:57,454 - CPB -INFO - entering the first custom option title
+2024-08-11 21:15:57,533 - CPB -INFO - clicking on input field option
+2024-08-11 21:15:58,125 - CPB -INFO - clicking on save custom option button
+2024-08-11 21:15:58,178 - CPB -INFO - clicking on add new custom option button
+2024-08-11 21:19:13,109 - CPB -INFO - open staging site
+2024-08-11 21:19:13,149 - CPB -INFO - switching to iFrame
+2024-08-11 21:19:13,253 - CPB -INFO - clicking on create new button
+2024-08-11 21:19:13,385 - CPB -INFO - entering product title
+2024-08-11 21:19:13,459 - CPB -INFO - entering product description
+2024-08-11 21:19:13,491 - CPB -INFO - entering product price base
+2024-08-11 21:19:13,517 - CPB -INFO - uploading image
+2024-08-11 21:19:13,535 - CPB -INFO - clicking on create button
+2024-08-11 21:19:16,473 - CPB -INFO - clicking on admin mode
+2024-08-11 21:19:18,592 - CPB -INFO - clicking on add first custom option
+2024-08-11 21:19:19,649 - CPB -INFO - entering the first custom option title
+2024-08-11 21:19:19,718 - CPB -INFO - clicking on input field option
+2024-08-11 21:19:19,791 - CPB -INFO - clicking on save custom option button
+2024-08-11 21:19:19,875 - CPB -INFO - clicking on add new custom option button
+2024-08-11 21:22:18,085 - CPB -INFO - open staging site
+2024-08-11 21:22:18,127 - CPB -INFO - switching to iFrame
+2024-08-11 21:22:18,230 - CPB -INFO - clicking on create new button
+2024-08-11 21:22:18,385 - CPB -INFO - entering product title
+2024-08-11 21:22:18,477 - CPB -INFO - entering product description
+2024-08-11 21:22:18,510 - CPB -INFO - entering product price base
+2024-08-11 21:22:18,536 - CPB -INFO - uploading image
+2024-08-11 21:22:18,553 - CPB -INFO - clicking on create button
+2024-08-11 21:22:21,666 - CPB -INFO - clicking on admin mode
+2024-08-11 21:22:24,813 - CPB -INFO - clicking on add first custom option
+2024-08-11 21:22:25,793 - CPB -INFO - entering the first custom option title
+2024-08-11 21:22:25,866 - CPB -INFO - clicking on input field option
+2024-08-11 21:22:25,940 - CPB -INFO - clicking on save custom option button
+2024-08-11 21:22:26,034 - CPB -INFO - clicking on add new custom option button
+2024-08-11 21:24:01,880 - CPB -INFO - open staging site
+2024-08-11 21:24:01,916 - CPB -INFO - switching to iFrame
+2024-08-11 21:24:02,018 - CPB -INFO - clicking on create new button
+2024-08-11 21:24:02,137 - CPB -INFO - entering product title
+2024-08-11 21:24:02,213 - CPB -INFO - entering product description
+2024-08-11 21:24:02,245 - CPB -INFO - entering product price base
+2024-08-11 21:24:02,271 - CPB -INFO - uploading image
+2024-08-11 21:24:02,288 - CPB -INFO - clicking on create button
+2024-08-11 21:24:04,798 - CPB -INFO - clicking on admin mode
+2024-08-11 21:24:06,917 - CPB -INFO - clicking on add first custom option
+2024-08-11 21:24:07,998 - CPB -INFO - entering the first custom option title
+2024-08-11 21:24:08,065 - CPB -INFO - clicking on input field option
+2024-08-11 21:24:08,154 - CPB -INFO - clicking on save custom option button
+2024-08-11 21:24:08,251 - CPB -INFO - clicking on add new custom option button
+2024-08-11 21:32:48,076 - CPB -INFO - open staging site
+2024-08-11 21:32:48,114 - CPB -INFO - switching to iFrame
+2024-08-11 21:32:48,212 - CPB -INFO - clicking on create new button
+2024-08-11 21:32:48,329 - CPB -INFO - entering product title
+2024-08-11 21:32:48,422 - CPB -INFO - entering product description
+2024-08-11 21:32:48,457 - CPB -INFO - entering product price base
+2024-08-11 21:32:48,483 - CPB -INFO - uploading image
+2024-08-11 21:32:48,500 - CPB -INFO - clicking on create button
+2024-08-11 21:32:51,644 - CPB -INFO - clicking on admin mode
+2024-08-11 21:32:54,109 - CPB -INFO - clicking on add first custom option
+2024-08-11 21:32:54,687 - CPB -INFO - entering the first custom option title
+2024-08-11 21:32:54,779 - CPB -INFO - clicking on input field option
+2024-08-11 21:32:54,867 - CPB -INFO - clicking on save custom option button
+2024-08-11 21:32:54,971 - CPB -INFO - clicking on add new custom option button
+2024-08-11 21:32:55,031 - CPB -INFO - entering the custom option title
+2024-08-11 21:35:34,125 - CPB -INFO - open staging site
+2024-08-11 21:35:34,175 - CPB -INFO - switching to iFrame
+2024-08-11 21:35:34,296 - CPB -INFO - clicking on create new button
+2024-08-11 21:35:34,425 - CPB -INFO - entering product title
+2024-08-11 21:35:34,493 - CPB -INFO - entering product description
+2024-08-11 21:35:34,524 - CPB -INFO - entering product price base
+2024-08-11 21:35:34,548 - CPB -INFO - uploading image
+2024-08-11 21:35:34,564 - CPB -INFO - clicking on create button
+2024-08-11 21:35:37,503 - CPB -INFO - clicking on admin mode
+2024-08-11 21:35:40,185 - CPB -INFO - clicking on add first custom option
+2024-08-11 21:35:41,276 - CPB -INFO - entering the first custom option title
+2024-08-11 21:35:41,362 - CPB -INFO - clicking on input field option
+2024-08-11 21:35:41,441 - CPB -INFO - clicking on save custom option button
+2024-08-11 21:35:41,526 - CPB -INFO - clicking on add new custom option button
+2024-08-11 21:35:41,570 - CPB -INFO - entering the custom option title
+2024-08-11 21:35:41,655 - CPB -INFO - clicking on font selector option
+2024-08-11 21:36:42,686 - CPB -INFO - open staging site
+2024-08-11 21:36:42,732 - CPB -INFO - switching to iFrame
+2024-08-11 21:36:42,834 - CPB -INFO - clicking on create new button
+2024-08-11 21:36:42,963 - CPB -INFO - entering product title
+2024-08-11 21:36:43,048 - CPB -INFO - entering product description
+2024-08-11 21:36:43,080 - CPB -INFO - entering product price base
+2024-08-11 21:36:43,105 - CPB -INFO - uploading image
+2024-08-11 21:36:43,123 - CPB -INFO - clicking on create button
+2024-08-11 21:36:46,179 - CPB -INFO - clicking on admin mode
+2024-08-11 21:36:48,899 - CPB -INFO - clicking on add first custom option
+2024-08-11 21:36:49,982 - CPB -INFO - entering the first custom option title
+2024-08-11 21:36:50,061 - CPB -INFO - clicking on input field option
+2024-08-11 21:36:50,139 - CPB -INFO - clicking on save custom option button
+2024-08-11 21:36:50,221 - CPB -INFO - clicking on add new custom option button
+2024-08-11 21:36:50,265 - CPB -INFO - entering the custom option title
+2024-08-11 21:36:50,347 - CPB -INFO - clicking on font selector option
+2024-08-11 21:36:50,406 - CPB -INFO - clicking on save custom option button for the second custom option
+2024-08-11 21:38:58,237 - CPB -INFO - open staging site
+2024-08-11 21:38:58,273 - CPB -INFO - switching to iFrame
+2024-08-11 21:38:58,374 - CPB -INFO - clicking on create new button
+2024-08-11 21:38:58,495 - CPB -INFO - entering product title
+2024-08-11 21:38:58,575 - CPB -INFO - entering product description
+2024-08-11 21:38:58,606 - CPB -INFO - entering product price base
+2024-08-11 21:38:58,633 - CPB -INFO - uploading image
+2024-08-11 21:38:58,650 - CPB -INFO - clicking on create button
+2024-08-11 21:39:01,629 - CPB -INFO - clicking on admin mode
+2024-08-11 21:39:04,256 - CPB -INFO - clicking on add first custom option
+2024-08-11 21:39:05,291 - CPB -INFO - entering the first custom option title
+2024-08-11 21:39:05,369 - CPB -INFO - clicking on input field option
+2024-08-11 21:39:05,470 - CPB -INFO - clicking on save custom option button
+2024-08-11 21:39:05,598 - CPB -INFO - clicking on add new custom option button
+2024-08-11 21:39:05,652 - CPB -INFO - entering the custom option title
+2024-08-11 21:39:05,739 - CPB -INFO - clicking on font selector option
+2024-08-11 21:39:05,830 - CPB -INFO - clicking on save custom option button for the second custom option
+2024-08-11 21:39:50,293 - CPB -INFO - open staging site
+2024-08-11 21:39:50,343 - CPB -INFO - switching to iFrame
+2024-08-11 21:39:50,443 - CPB -INFO - clicking on create new button
+2024-08-11 21:39:50,589 - CPB -INFO - entering product title
+2024-08-11 21:39:50,663 - CPB -INFO - entering product description
+2024-08-11 21:39:50,695 - CPB -INFO - entering product price base
+2024-08-11 21:39:50,720 - CPB -INFO - uploading image
+2024-08-11 21:39:50,737 - CPB -INFO - clicking on create button
+2024-08-11 21:39:53,612 - CPB -INFO - clicking on admin mode
+2024-08-11 21:39:55,773 - CPB -INFO - clicking on add first custom option
+2024-08-11 21:39:56,793 - CPB -INFO - entering the first custom option title
+2024-08-11 21:39:56,862 - CPB -INFO - clicking on input field option
+2024-08-11 21:39:56,958 - CPB -INFO - clicking on save custom option button
+2024-08-11 21:39:57,039 - CPB -INFO - clicking on add new custom option button
+2024-08-11 21:39:57,085 - CPB -INFO - entering the custom option title
+2024-08-11 21:39:57,162 - CPB -INFO - clicking on font selector option
+2024-08-11 21:39:57,229 - CPB -INFO - clicking on save custom option button for the second custom option
+2024-08-11 21:39:57,311 - CPB -INFO - saving the product
+2024-08-11 21:42:23,509 - CPB -INFO - open staging site
+2024-08-11 21:42:23,552 - CPB -INFO - switching to iFrame
+2024-08-11 21:42:23,655 - CPB -INFO - clicking on create new button
+2024-08-11 21:42:23,767 - CPB -INFO - entering product title
+2024-08-11 21:42:23,854 - CPB -INFO - entering product description
+2024-08-11 21:42:23,889 - CPB -INFO - entering product price base
+2024-08-11 21:42:23,913 - CPB -INFO - uploading image
+2024-08-11 21:42:23,931 - CPB -INFO - clicking on create button
+2024-08-11 21:42:30,319 - CPB -INFO - clicking on admin mode
+2024-08-11 21:42:34,016 - CPB -INFO - clicking on add first custom option
+2024-08-11 21:42:34,598 - CPB -INFO - entering the first custom option title
+2024-08-11 21:42:35,188 - CPB -INFO - clicking on input field option
+2024-08-11 21:42:35,275 - CPB -INFO - clicking on save custom option button
+2024-08-11 21:42:35,354 - CPB -INFO - clicking on add new custom option button
+2024-08-11 21:42:35,425 - CPB -INFO - entering the custom option title
+2024-08-11 21:42:35,507 - CPB -INFO - clicking on font selector option
+2024-08-11 21:42:35,865 - CPB -INFO - clicking on save custom option button for the second custom option
+2024-08-11 21:42:35,982 - CPB -INFO - saving the product
+2024-08-11 21:50:13,356 - CPB -INFO - open staging site
+2024-08-11 21:50:13,397 - CPB -INFO - switching to iFrame
+2024-08-11 21:50:13,495 - CPB -INFO - clicking on create new button
+2024-08-11 21:50:13,637 - CPB -INFO - entering product title
+2024-08-11 21:50:13,709 - CPB -INFO - entering product description
+2024-08-11 21:50:13,758 - CPB -INFO - entering product price base
+2024-08-11 21:50:13,808 - CPB -INFO - uploading image
+2024-08-11 21:50:13,825 - CPB -INFO - clicking on create button
+2024-08-11 21:50:16,809 - CPB -INFO - clicking on admin mode
+2024-08-11 21:50:18,923 - CPB -INFO - clicking on add first custom option
+2024-08-11 21:50:19,513 - CPB -INFO - entering the first custom option title
+2024-08-11 21:50:20,141 - CPB -INFO - clicking on input field option
+2024-08-11 21:50:20,215 - CPB -INFO - clicking on save custom option button
+2024-08-11 21:50:20,564 - CPB -INFO - clicking on add new custom option button
+2024-08-11 21:50:20,629 - CPB -INFO - entering the custom option title
+2024-08-11 21:50:20,716 - CPB -INFO - clicking on font selector option
+2024-08-11 21:50:20,780 - CPB -INFO - clicking on save custom option button for the second custom option
+2024-08-11 21:50:20,842 - CPB -INFO - saving the product
