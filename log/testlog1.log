@@ -448,3 +448,41 @@
 2024-08-11 21:50:20,716 [main] INFO CPB - clicking on font selector option
 2024-08-11 21:50:20,780 [main] INFO CPB - clicking on save custom option button for the second custom option
 2024-08-11 21:50:20,842 [main] INFO CPB - saving the product
+2024-08-18 09:50:10,440 [main] INFO CPB - open staging site
+2024-08-18 09:50:10,481 [main] INFO CPB - switching to iFrame
+2024-08-18 09:50:10,596 [main] INFO CPB - clicking on create new button
+2024-08-18 09:50:10,735 [main] INFO CPB - entering product title
+2024-08-18 09:50:10,827 [main] INFO CPB - entering product description
+2024-08-18 09:50:10,860 [main] INFO CPB - entering product price base
+2024-08-18 09:50:10,886 [main] INFO CPB - uploading image
+2024-08-18 09:50:10,903 [main] INFO CPB - clicking on create button
+2024-08-18 09:50:14,432 [main] INFO CPB - clicking on admin mode
+2024-08-18 09:50:16,546 [main] INFO CPB - clicking on add first custom option
+2024-08-18 09:50:17,130 [main] INFO CPB - entering the first custom option title
+2024-08-18 09:50:17,202 [main] INFO CPB - clicking on input field option
+2024-08-18 09:50:17,286 [main] INFO CPB - clicking on save custom option button
+2024-08-18 09:50:17,400 [main] INFO CPB - clicking on add new custom option button
+2024-08-18 09:50:17,456 [main] INFO CPB - entering the custom option title
+2024-08-18 09:50:17,534 [main] INFO CPB - clicking on font selector option
+2024-08-18 09:50:17,597 [main] INFO CPB - clicking on save custom option button for the second custom option
+2024-08-18 09:50:17,688 [main] INFO CPB - saving the product
+2024-08-18 09:50:17,801 [main] INFO CPB - clicking on preview button
+2024-08-18 09:55:15,056 [main] INFO CPB - open staging site
+2024-08-18 09:55:15,091 [main] INFO CPB - switching to iFrame
+2024-08-18 09:55:15,213 [main] INFO CPB - clicking on create new button
+2024-08-18 09:55:15,328 [main] INFO CPB - entering product title
+2024-08-18 09:55:15,408 [main] INFO CPB - entering product description
+2024-08-18 09:55:15,441 [main] INFO CPB - entering product price base
+2024-08-18 09:55:15,467 [main] INFO CPB - uploading image
+2024-08-18 09:55:15,484 [main] INFO CPB - clicking on create button
+2024-08-18 09:55:18,796 [main] INFO CPB - clicking on admin mode
+2024-08-18 09:55:20,923 [main] INFO CPB - clicking on add first custom option
+2024-08-18 09:55:21,501 [main] INFO CPB - entering the first custom option title
+2024-08-18 09:55:21,581 [main] INFO CPB - clicking on input field option
+2024-08-18 09:55:21,661 [main] INFO CPB - clicking on save custom option button
+2024-08-18 09:55:21,741 [main] INFO CPB - clicking on add new custom option button
+2024-08-18 09:55:21,789 [main] INFO CPB - entering the custom option title
+2024-08-18 09:55:21,891 [main] INFO CPB - clicking on font selector option
+2024-08-18 09:55:22,499 [main] INFO CPB - clicking on save custom option button for the second custom option
+2024-08-18 09:55:22,573 [main] INFO CPB - saving the product
+2024-08-18 09:55:22,708 [main] INFO CPB - clicking on preview button worked -> product was created successfully

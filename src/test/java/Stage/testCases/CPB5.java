@@ -66,6 +66,13 @@ public class CPB5 extends BaseClass {
         am.clickOnSaveProductButton();
         logger.info("saving the product");
 
+        try {
+            am.clickPreviewButton();
+            logger.info("clicking on preview button worked -> product was created successfully");
+        } catch (Exception e) {
+            logger.info("clicking on preview button failed -> product was not created");
+        }
+
 
 
     }

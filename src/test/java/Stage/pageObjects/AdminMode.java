@@ -57,6 +57,10 @@ public class AdminMode {
     @CacheLookup
     WebElement saveProductButton;
 
+    @FindBy(xpath = "/html/body/div[2]/div[1]/div/div/div[1]/div[1]/a[2]")
+    @CacheLookup
+    WebElement previewButton;
+
     @FindBy(xpath = "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/button[1]")
     @CacheLookup
     WebElement reorderToggle;
@@ -105,6 +109,11 @@ public class AdminMode {
     public void clickOnSaveProductButton() {
         wait.until(ExpectedConditions.elementToBeClickable(saveProductButton));
         saveProductButton.click();
+    }
+
+    public void clickPreviewButton() {
+        wait.until(ExpectedConditions.elementToBeClickable(previewButton));
+        previewButton.click();
     }
 
     public void clickReorderToggle() {
