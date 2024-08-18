@@ -486,3 +486,27 @@
 2024-08-18 09:55:22,499 [main] INFO CPB - clicking on save custom option button for the second custom option
 2024-08-18 09:55:22,573 [main] INFO CPB - saving the product
 2024-08-18 09:55:22,708 [main] INFO CPB - clicking on preview button worked -> product was created successfully
+2024-08-18 11:04:32,794 [main] INFO CPB - open staging site
+2024-08-18 11:12:44,148 [main] INFO CPB - open staging site
+2024-08-18 11:13:28,714 [main] INFO CPB - open staging site
+2024-08-18 11:31:09,805 [main] INFO CPB - open staging site
+2024-08-18 11:31:09,844 [main] INFO CPB - switching to iFrame
+2024-08-18 11:31:13,341 [main] INFO CPB - choosing sweatshirt product
+2024-08-18 11:34:45,301 [main] INFO CPB - open staging site
+2024-08-18 11:34:45,336 [main] INFO CPB - switching to iFrame
+2024-08-18 11:34:51,199 [main] INFO CPB - choosing edit sweatshirt product
+2024-08-18 11:36:12,374 [main] INFO CPB - open staging site
+2024-08-18 11:36:12,413 [main] INFO CPB - switching to iFrame
+2024-08-18 11:36:15,863 [main] INFO CPB - choosing edit sweatshirt product
+2024-08-18 11:36:16,429 [main] INFO CPB - clicking on admin mode
+2024-08-18 11:38:47,245 [main] INFO CPB - open staging site
+2024-08-18 11:38:47,285 [main] INFO CPB - switching to iFrame
+2024-08-18 11:38:51,236 [main] INFO CPB - choosing edit sweatshirt product
+2024-08-18 11:38:51,808 [main] INFO CPB - clicking on admin mode
+2024-08-18 11:38:54,450 [main] INFO CPB - clicking on reorder toggle
+2024-08-18 11:42:20,769 [main] INFO CPB - open staging site
+2024-08-18 11:42:20,803 [main] INFO CPB - switching to iFrame
+2024-08-18 11:42:24,243 [main] INFO CPB - choosing edit sweatshirt product
+2024-08-18 11:42:24,807 [main] INFO CPB - clicking on admin mode
+2024-08-18 11:42:26,897 [main] INFO CPB - clicking on reorder toggle
+2024-08-18 11:42:27,288 [main] INFO CPB - clicking on reorder toggle

@@ -56,6 +56,11 @@ public class CustomProducts {
     @CacheLookup
     WebElement adminMode;
 
+    @FindBy(xpath = "/html/body/div[2]/div/div/div/div[2]/div/div/ul/li[82]/div/div[2]/div[2]/a")
+    @CacheLookup
+    WebElement editSweatshirtProduct;
+
+
     public void switchToIFrame() {
         driver.switchTo().frame(iFrame);
     }
@@ -96,5 +101,10 @@ public class CustomProducts {
         wait.until(ExpectedConditions.elementToBeClickable(adminMode));
         JavascriptExecutor js = (JavascriptExecutor) driver;
         js.executeScript("arguments[0].click();", adminMode);
+    }
+
+    public void clickEditSweatshirtProduct() {
+        wait.until(ExpectedConditions.visibilityOf(editSweatshirtProduct));
+        editSweatshirtProduct.click();
     }
 }
